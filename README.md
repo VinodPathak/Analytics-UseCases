@@ -20,3 +20,6 @@ Sample Use Cases in AI, ML &amp; DL
 
 <b>Emotion Recognition</b>  
 * https://towardsdatascience.com/whats-the-difference-between-haar-feature-classifiers-and-convolutional-neural-networks-ce6828343aeb  
+
+<b>Math Behind A/B Testing with Example</b>  
+* https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f  
