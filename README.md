@@ -17,3 +17,6 @@ Sample Use Cases in AI, ML &amp; DL
 
 <b>Invasive Species Monitoring</b>  
 -https://github.com/umbertogriffo/Kaggle_Invasive-Species-Monitoring  
+
+<b>Emotion Recognition</b>  
+* https://towardsdatascience.com/whats-the-difference-between-haar-feature-classifiers-and-convolutional-neural-networks-ce6828343aeb  
