@@ -1,8 +1,22 @@
 # Analytics-UseCases
-Sample Use Cases in AI, ML &amp; DL
+Sample Use Cases in AI, ML &amp; DL  
+
+## https://github.com/MicrosoftDocs/azure-docs/tree/master/articles  
 
 DATA SOURCES  
 https://dreamtolearn.com/ryan/1001_datasets  
+https://github.com/bayesimpact/bayeshack-commerce-complaints  
+https://github.com/karolzak/support-tickets-classification  
+https://github.com/RaviKaushik2372/Credit-Card-Customers-Segmentation-Profiling  
+
+
+<b>Customer Lifetime Value</b>
+- https://github.com/datascienceinc/oreilly-intro-to-predictive-clv  
+
+<b>Customer Churn</b>  
+- https://github.com/rstudio/keras-customer-churn  
+- https://towardsdatascience.com/ai-101-understanding-customer-churn-management-514416c17643  
+- https://www.cptech.com/closed-loop-marketing/ 
 
 
 <b>Predictive Maintenance</b>  
@@ -27,3 +41,6 @@ https://dreamtolearn.com/ryan/1001_datasets
 
 <b>Math Behind A/B Testing with Example</b>  
 * https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f  
+
+
+https://yurongfan.wordpress.com/2017/03/17/using-customer-level-data-to-build-a-personalized-pricing-system/
