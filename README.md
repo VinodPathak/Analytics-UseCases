@@ -1,6 +1,10 @@
 # Analytics-UseCases
 Sample Use Cases in AI, ML &amp; DL
 
+DATA SOURCES  
+https://dreamtolearn.com/ryan/1001_datasets  
+
+
 <b>Predictive Maintenance</b>  
 -https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM  
 -https://github.com/Azure/PySpark-Predictive-Maintenance  
