@@ -1,7 +1,7 @@
 # Analytics-UseCases
 Sample Use Cases in AI, ML &amp; DL  
 
-## https://github.com/MicrosoftDocs/azure-docs/tree/master/articles  
+#### https://github.com/MicrosoftDocs/azure-docs/tree/master/articles  
 
 DATA SOURCES  
 https://dreamtolearn.com/ryan/1001_datasets  
